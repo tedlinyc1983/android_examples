@@ -1,0 +1,7 @@
+adb pull /sdcard/DCIM/100ANDRO/MOV_2417.mp4 ./tmp/pictures_for_sony_neo/
+
+adb devices
+
+adb shell
+
+
